@@ -1,4 +1,4 @@
 django
-mysql-connector
-pytz
+mysqlclient
+Opytz
 sqlparse
